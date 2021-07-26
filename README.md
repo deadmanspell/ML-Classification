@@ -1,6 +1,6 @@
-# Making a Random Forest Classifier using Sklearn Library to classify the popular Iris Dataset
+# Making a Random Forest Classifier using Sklearn Library to classify the popular Iris🌻 Dataset
 ## Overview
-A python code to see how the iris flower classified using random forest classifier. Written in spyder 4.1.1.
+A machine learning task to see how the iris flower classified using random forest classifier. Written in spyder 4.1.1.
 ## Steps of Code
 1. Importing the Libraries
 2. Taking File from the Directory
