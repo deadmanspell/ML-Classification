@@ -10,4 +10,4 @@ A python code to see how the iris flower classified using random forest classifi
 6. Developing the Models
 7. Model Plotting Using Confusion Matrix
 ## Requirements
-Add the requirements to your library `pip install -r requirements.txt`, every required libraries is already on the current version. 
+Add the requirements to your library `pip install -r requirements.txt`, every required library is already on the current version. 
